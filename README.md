@@ -17,13 +17,13 @@ In this module, I learn the fundamentals of the Python programming language, alo
 ### Part 2: Intro to Data Analysis
 This course is the introduction to the world of data analysis. It includes the main data analysis process, which includes: 
 
-    - Wrangling your data into a format.
-    - Exploring the data, finding patterns in it, and building intuition about it
-    - Drawing conclusions and/or making predictions
-    - Learning how to use the Python libraries NumPy, Pandas, and Matplotlib to write code that's cleaner, more concise, and runs faster.
+1. Wrangling your data into a format.
+2.  Exploring the data, finding patterns in it, and building intuition about it
+3.  Drawing conclusions and/or making predictions
+4. Learning how to use the Python libraries NumPy, Pandas, and Matplotlib to write code that's cleaner, more concise, and runs faster.
 
 - Project: [Investigate a Dataset](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-- In this project, I will conduct data analysis on IMDB data getting from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata) and create a file to share that documents of findings and answer some questions that will could make an investigation about the dataset. 
+    - In this project, I will conduct data analysis on IMDB data getting from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata) and create a file to share that documents of findings and answer some questions that will could make an investigation about the dataset. 
 
 
 
