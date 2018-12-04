@@ -12,7 +12,7 @@ In this project, I analyzed local and global temperature data and compared the t
 In this module, I learn the fundamentals of the Python programming language, along with programming best practices. I learn to represent and store data using Python data types and variables, and use conditionals and loops to control the flow of the programs.
 
 - Project: [Explore US Bikeshare Data](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-In this project, I used Python to explore data related to bike share systems, provided by [Motivate](https://www.motivateco.com/), for three major cities in the United States by importing the data and answering interesting questions about it by computing descriptive statistics.
+- - In this project, I used Python to explore data related to bike share systems, provided by [Motivate](https://www.motivateco.com/), for three major cities in the United States by importing the data and answering interesting questions about it by computing descriptive statistics.
 
 ### Project 2: 
 
