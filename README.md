@@ -27,7 +27,7 @@ This course is the introduction to the world of data analysis. It includes the m
 
 
 
-### Project 3: [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+### Part 3: [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 Choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
 - Project: [Investigate a Dataset](https://github.com/kaishengteh/Data-Analyst-Nanodegree/blob/master/3-Intro-to-Data-Analysis/Investigate-a-Dataset.ipynb)
