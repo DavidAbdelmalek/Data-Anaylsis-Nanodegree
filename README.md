@@ -32,12 +32,3 @@ Choose one of Udacity's curated datasets and investigate it using NumPy and Pand
 
 - Project: [Investigate a Dataset](https://github.com/DavidAbdelmalek/Data-Anaylsis-Nanodegree/blob/master/Introduction-To-Data-Analysis/dataset_analysis/TMDb-anaylsis.ipynb)
 
-### Project 4: [Data Wrangling](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
-Choose a region of the world from www.openstreetmap.org and then use data wrangling techniques to audit and clean the data. You'll then use a database to query the cleaned data.
-
-- Project: [Wrangle OpenStreetMap Data](https://github.com/kaishengteh/Data-Analyst-Nanodegree/blob/master/4-Data-Wrangling/Data_Wrangling.ipynb)
-
-### Part 5: [Exploratory Data Analysis](https://www.udacity.com/course/data-analysis-with-r--ud651)
-Use R and apply exploratory data analysis techniques to explore a selected data set for distributions, outliers, and relationships.
-
-- Project: [Explore and Summarize Data](https://cdn.rawgit.com/kaishengteh/Data-Analyst-Nanodegree/e94db549/5-Exploratory-Data-Analysis/Exploratory%20Data%20Analysis.html)
