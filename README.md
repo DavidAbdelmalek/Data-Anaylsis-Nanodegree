@@ -30,7 +30,7 @@ This course is the introduction to the world of data analysis. It includes the m
 ### Part 3: [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 Choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
-- Project: [Investigate a Dataset](https://github.com/kaishengteh/Data-Analyst-Nanodegree/blob/master/3-Intro-to-Data-Analysis/Investigate-a-Dataset.ipynb)
+- Project: [Investigate a Dataset](https://github.com/DavidAbdelmalek/Data-Anaylsis-Nanodegree/blob/master/Introduction-To-Data-Analysis/dataset_analysis/TMDb-anaylsis.ipynb)
 
 ### Project 4: [Data Wrangling](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
 Choose a region of the world from www.openstreetmap.org and then use data wrangling techniques to audit and clean the data. You'll then use a database to query the cleaned data.
